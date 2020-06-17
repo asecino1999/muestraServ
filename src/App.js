@@ -5,11 +5,20 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-	Gerald Palomino Monge 
+	      Gerald Palomino Monge 
 	 <div>
-	  Codigo:  20140372B
+	      Codigo:  20140372B
+
+        
 	  </div>
+    <img src='https://vulnerabilidad-sismica.uni.edu.pe/img/logo-uni.png'  ></img>
+      <div>
+        Mi servidor funciona
+      </div>
+    
     </div>
+
+    
   );
 }
 
